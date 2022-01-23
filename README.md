@@ -19,8 +19,8 @@ Hi there 👋
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🔭 I’m  pursuing Masters in Computer science from San Jose State University.
-- 🌱 I’m currently learning Data Structures, Algorithms and Cloud Computing.
-- 💬 Ask me about ... DS/ALGO, DevOps, CI/CD
+- 🌱 I’m currently learning Full Stack Web Development and Data Structures, Algorithms.
+- 💬 Ask me about ... DS/ALGO, DevOps, CI/CD, Full Stack
 - 👯 I’m open for opportunities as Software Developer / DevOps intern.
 - 📫 How to reach me: 
 
