@@ -20,8 +20,8 @@ Hi there 👋
 
 - 🔭 I’m  pursuing Masters in Computer science from San Jose State University.
 - 🌱 I’m currently learning Full Stack Web Development and Data Structures, Algorithms.
-- 💬 Ask me about ... DS/ALGO, DevOps, CI/CD, Full Stack
-- 👯 I’m open for opportunities as Software Developer / DevOps intern.
+- 💬 Ask me about ... DS/ALGO, DevOps, CI/CD, Full Stack Application Development and Deployment
+- 👯 I’m open for opportunities as Software / DevOps / Cloud intern or fulltime developer.
 - 📫 How to reach me: 
 
  [![Linkedin Badge](https://img.shields.io/badge/-Ikshaku_Goswami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikshaku/)](https://www.linkedin.com/in/ikshaku/) [![Gmail Badge](https://img.shields.io/badge/-ikshaku.goswami@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ikshaku.goswami@gmail.com)](mailto:ikshaku.goswami@gmail.com)
