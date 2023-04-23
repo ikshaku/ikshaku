@@ -19,9 +19,9 @@ Hi there 👋
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🔭 I’m  pursuing Masters in Computer science from San Jose State University.
-- 🌱 I’m currently learning Full Stack Web Development and Data Structures, Algorithms.
+- 🌱 I’m currently learning about Site Reliability Engineering, Backend Engineering and Data Structures, Algorithms.
 - 💬 Ask me about ... DS/ALGO, DevOps, CI/CD, Full Stack Application Development and Deployment
-- 👯 I’m open for opportunities as Software / DevOps / Cloud intern or fulltime developer.
+- 👯 I’m open for opportunities as Software / DevOps / SRE/ Cloud intern or fulltime developer.
 - 📫 How to reach me: 
 
  [![Linkedin Badge](https://img.shields.io/badge/-Ikshaku_Goswami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikshaku/)](https://www.linkedin.com/in/ikshaku/) [![Gmail Badge](https://img.shields.io/badge/-ikshaku.goswami@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ikshaku.goswami@gmail.com)](mailto:ikshaku.goswami@gmail.com)
