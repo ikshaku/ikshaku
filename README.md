@@ -19,7 +19,7 @@ Hi there 👋
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🔭 I’m  pursuing Masters in Computer science from San Jose State University.
-- 🌱 I’m currently learning about SpringBoot Reactive Applications.
+- 🌱 I’m currently learning about React and Middleware.
 - Languages: Java, JavaScript, TypeScript, C/C++, Python, SQL, Bash, Groovy                                                                                    
 - Web Technology: SpringBoot, NodeJS, Flask, MongoDB, ReactJS, JUnit, Mockito, Mocha, AWS (EC2, EKS, VPC, RDS, IAM)
 - Data Engineering: Hadoop, HBase, MapReduce, Kafka, Spark
